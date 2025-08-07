@@ -114,6 +114,20 @@
 * 沒有下標過</br>
    <img height="350" alt="網頁設計 (11)" src="https://github.com/user-attachments/assets/276cff8c-0136-4df7-8b91-606896adc2a8" />
 
+## 頁面及其對應功能
+* Homepage 是首頁(看商品)
+* ProductDetails 是商品資訊
+* BuyProduct 是輸入競標價的頁面
+* WebForm1 是註冊
+* WebForm2 是登入
+* WebForm2_1 是登出
+* WebForm3 是賣東西
+* WebForm4 是使用者購買紀錄
+* WebForm5 是使用者賣的商品紀錄
+
+
+* Site.Master 中有不管在哪個頁面都會在畫面上的東西(最上方選單及footer)
+* Global.asax 中有寄mail的程式(只要執行網站，時間到就會自動發送)
 
 ## 如何安裝
 1. 下載專案到電腦本地端的Downloads資料夾
